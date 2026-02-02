@@ -11,7 +11,7 @@ import dotenv
 import lzstring
 import graphviz
 
-__APPS = {
+APPS = {
     "https://app.fortuna-events.fr": ("=", "#e6e6e6"),
     "https://treasure.fortuna-events.fr": ("@", "#a1a1e6"),
     "https://quizz.fortuna-events.fr": ("?", "#e6a1a1"),
