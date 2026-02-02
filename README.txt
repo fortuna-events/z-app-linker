@@ -3,12 +3,12 @@ usage: linker.py [-h] [--with-debug] [-f] [-p] [--dry] [-d [data.txt]]
 links z-app data between them.
 (see data.sample.txt for data format)
 separators:
-===== https://github.com/clement-gouin/z-app
-@@@@@ https://github.com/clement-gouin/z-treasure-finder
-????? https://github.com/clement-gouin/z-on-the-quizz
-+++++ https://github.com/clement-gouin/z-cross-roads
-%%%%% https://github.com/clement-gouin/z-dice-roller
-$$$$$ https://github.com/clement-gouin/z-hero-quest
+===== https://app.fortuna-events.fr
+@@@@@ https://treasure.fortuna-events.fr
+????? https://quizz.fortuna-events.fr
++++++ https://roads.fortuna-events.fr
+%%%%% https://dice.fortuna-events.fr
+$$$$$ https://quest.fortuna-events.fr
 
 options:
   -h, --help            show this help message and exit

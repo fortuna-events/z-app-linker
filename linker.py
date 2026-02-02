@@ -11,13 +11,13 @@ import dotenv
 import lzstring
 import graphviz
 
-APPS = {
-    "https://clement-gouin.github.io/z-app": ("=", "#e6e6e6"),
-    "https://clement-gouin.github.io/z-treasure-finder": ("@", "#a1a1e6"),
-    "https://clement-gouin.github.io/z-on-the-quizz": ("?", "#e6a1a1"),
-    "https://clement-gouin.github.io/z-cross-roads": ("+", "#a1e6a1"),
-    "https://clement-gouin.github.io/z-dice-roller": ("%", "#e6a1e6"),
-    "https://clement-gouin.github.io/z-hero-quest": ("$", "#a1e6e6"),
+__APPS = {
+    "https://app.fortuna-events.fr": ("=", "#e6e6e6"),
+    "https://treasure.fortuna-events.fr": ("@", "#a1a1e6"),
+    "https://quizz.fortuna-events.fr": ("?", "#e6a1a1"),
+    "https://roads.fortuna-events.fr": ("+", "#a1e6a1"),
+    "https://dice.fortuna-events.fr": ("%", "#e6a1e6"),
+    "https://quest.fortuna-events.fr": ("$", "#a1e6e6"),
 }
 
 
